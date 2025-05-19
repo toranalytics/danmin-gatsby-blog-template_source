@@ -110,7 +110,7 @@ const config: GatsbyConfig = {
       },
     },
 
-    {
+/*    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content`,
@@ -188,7 +188,7 @@ const config: GatsbyConfig = {
           `gatsby-remark-smartypants`,
         ],
       },
-    },
+    },*/
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
